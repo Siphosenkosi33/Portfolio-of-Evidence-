@@ -96,3 +96,29 @@ My interview preparation boosted my confidence and ability to communicate effect
 ### Additional Reflection  
 The process of preparing answers and receiving feedback was critical in building my self-assurance and professionalism. These experiences will help me secure internships and future employment opportunities.
 
+# Mock Interview
+
+## Evidence  
+This folder contains evidence of my preparation and practice through mock interviews as part of my Work Integrated Learning (WIL) programme. Included are:  
+- A video recording of one of my mock interview sessions, demonstrating my communication skills and how I respond to typical interview questions.  
+- Notes and feedback received during the mock interview to help identify strengths and areas for improvement.  
+
+These artefacts show my proactive approach to preparing for real job and internship interviews by simulating real interview conditions and practicing effective responses.
+
+## Reflection (STAR Method)
+
+### Situation  
+As part of my WIL, I took part in mock interviews to prepare for real-world internship interviews in the IT field.
+
+### Task  
+My goal was to improve my interview skills, including clear communication, confidence, and professionalism.
+
+### Action  
+I participated in structured mock interviews, recorded my responses, and sought feedback from mentors. I reflected on this feedback and practiced refining my answers and presentation.
+
+### Result  
+The mock interviews boosted my confidence and improved my ability to articulate my skills and experiences under interview conditions. Reviewing the video helped me understand my body language and areas to improve.
+
+### Additional Reflection  
+This experience highlighted the importance of preparation and self-review in interview success. It has better equipped me to handle actual interviews with poise and professionalism.
+
