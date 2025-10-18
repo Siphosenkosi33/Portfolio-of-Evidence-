@@ -148,4 +148,40 @@ These activities improved my professional visibility, expanded my contact networ
 ### Additional Reflection  
 Engaging in both online and offline networking has reinforced my understanding of the IT community’s collaborative nature and the value of continuous professional development.
 
+# Workplace Etiquette
+
+## Evidence  
+This folder contains a detailed report and attendance register documenting my understanding and application of workplace etiquette during my Work Integrated Learning (WIL) programme. These documents demonstrate my commitment to professional behavior and adherence to organizational standards in a work environment.
+
+- The report outlines key workplace etiquette principles such as professional communication, punctuality, respect, and accountability.  
+- The register provides proof of my consistent attendance and participation in workplace activities, reflecting my reliability and professionalism.
+
+These artefacts serve as evidence of my efforts to develop and apply appropriate workplace conduct, essential for success in any professional setting.
+
+## Reflection (STAR Method)
+
+### Situation  
+During my WIL, I was required to adhere to workplace etiquette standards to integrate effectively into the professional environment.
+
+### Task  
+I needed to understand and consistently demonstrate appropriate workplace behavior to meet employer expectations.
+
+### Action  
+I studied workplace etiquette guidelines, applied them daily in my tasks and interactions, and documented my experiences and attendance through reports and registers.
+
+### Result  
+This discipline helped me build a positive professional reputation, strengthen workplace relationships, and improve my employability skills.
+
+### Additional Reflection  
+Documenting my adherence to workplace etiquette reinforced its importance in career growth and workplace harmony. It has prepared me for future professional challenges.
+
+## Conclusion
+
+This digital portfolio showcases my development and readiness for the professional workplace through the Work Readiness Training. It includes evidence and reflections across key areas: Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette.
+
+The STAR reflections demonstrate how I have applied critical skills in real situations, enhancing my communication, interviewing, networking, and professional conduct abilities. 
+
+This portfolio serves as a testament to my growth and preparation for internships and entry-level roles in the IT field. It reflects my commitment to continuous learning and positioning myself as a competent and ready candidate for the workplace.
+
+
 
