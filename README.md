@@ -122,3 +122,30 @@ The mock interviews boosted my confidence and improved my ability to articulate 
 ### Additional Reflection  
 This experience highlighted the importance of preparation and self-review in interview success. It has better equipped me to handle actual interviews with poise and professionalism.
 
+# Professional Networking
+
+## Evidence  
+This folder contains screenshots demonstrating my proactive engagement with professional networking activities relevant to my IT career development:  
+- A screenshot of my LinkedIn profile, which showcases my professional summary, skills, and connections. This reflects my effort to build an online professional presence and connect with industry peers.  
+- A screenshot of a ticket from a Kotlin event I attended. This shows my commitment to continuous learning and participation in relevant industry events, which helps expand my network and knowledge.
+
+These artefacts highlight my active approach to professional networking, both online and through in-person events, supporting my career growth aspirations.
+
+## Reflection (STAR Method)
+
+### Situation  
+As part of my career preparation, I recognized the importance of professional networking in IT.
+
+### Task  
+I aimed to create a strong professional online profile and actively participate in industry events to broaden my network.
+
+### Action  
+I developed a LinkedIn profile aligned with my skills and career goals and attended a Kotlin programming event to connect with like-minded professionals.
+
+### Result  
+These activities improved my professional visibility, expanded my contact network, and enhanced my industry knowledge, preparing me better for internship and job opportunities.
+
+### Additional Reflection  
+Engaging in both online and offline networking has reinforced my understanding of the IT community’s collaborative nature and the value of continuous professional development.
+
+
