@@ -68,3 +68,31 @@ Through this process, I gained confidence and competence in professional busines
 
 ### Additional Reflection  
 The instructions and feedback I received from my WIL supervisor were crucial in guiding my work. They helped me focus on clarity, cohesion, and professional standards in my documents and visual branding. This structured feedback loop enhanced my learning and ensured the quality of my work.
+
+# Interview Skills
+
+## Evidence  
+This folder contains my interview preparation questions and a screenshot of my interview skills mark from my project presentation module. These documents showcase my commitment to preparing for internship interviews in the IT field and demonstrate my ability to communicate clearly and professionally in interview settings.
+
+- A list of common interview questions I prepared for, with answers structured using the STAR technique.  
+- A screenshot of the marks I received on my interview skills assessment, demonstrating my successful application of these preparation techniques.
+
+These artefacts highlight my proactive approach to interview readiness and my focus on developing strong communication and presentation skills.
+
+## Reflection (STAR Method)
+
+### Situation  
+During my WIL, preparing for and completing the interview skills assessment was an essential step in my career readiness journey.
+
+### Task  
+I needed to prepare thoroughly to improve my ability to answer interview questions confidently and present myself professionally to potential employers.
+
+### Action  
+I researched common interview questions, practiced answers using structured methods, and incorporated feedback from mentors. I also recorded my interview skills progress through formal assessment.
+
+### Result  
+My interview preparation boosted my confidence and ability to communicate effectively during interviews. The good marks in my assessment reflect my improved skills and readiness for real-world interview scenarios.
+
+### Additional Reflection  
+The process of preparing answers and receiving feedback was critical in building my self-assurance and professionalism. These experiences will help me secure internships and future employment opportunities.
+
